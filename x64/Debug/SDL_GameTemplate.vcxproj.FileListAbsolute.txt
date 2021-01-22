@@ -1,0 +1,3 @@
+D:\C++\SDL_GameTemplate\x64\Debug\ChickenInvaders.pdb
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\x64\Debug\ChickenInvaders.exe
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\x64\Debug\ChickenInvaders.pdb
