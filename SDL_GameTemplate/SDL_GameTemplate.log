@@ -1,0 +1,22 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+  GameObject.cpp
+  Main.cpp
+  ManangeFiles.cpp
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(23,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(49,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(68,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Map.cpp
+  Player.cpp
+  Scoreboard.cpp
+  TextureManager.cpp
+  Generating Code...
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(92): warning C4715: 'ManangeFiles::ExportNume': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(102): warning C4715: 'ManangeFiles::ExportScore': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(97): warning C4715: 'ManangeFiles::ExportLevel': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(107): warning C4715: 'ManangeFiles::ExportL1': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(117): warning C4715: 'ManangeFiles::ExportL3': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(112): warning C4715: 'ManangeFiles::ExportL2': not all control paths return a value
+D:\C++\SDL_GameTemplate\SDL_GameTemplate\ManangeFiles.cpp(122): warning C4715: 'ManangeFiles::ExportL4': not all control paths return a value
+LINK : fatal error LNK1209: program database 'D:\C++\SDL_GameTemplate\x64\Debug\ChickenInvaders.pdb' differs from previous link; relink or rebuild
